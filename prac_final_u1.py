@@ -74,7 +74,7 @@ def suma(num1, num2=5):
     return num1 + num2
 
 print("Suma amb un valor:", suma(10))
-print("Suma amb dos valors:" suma(10, 3))
+print("Suma amb dos valors:", suma(10, 3))
 
 #4.1
 #Operadors Aritmetics i Logics
