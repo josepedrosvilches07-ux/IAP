@@ -1,0 +1,3 @@
+Nom: Jose
+Edat: 18
+Ciutat: Cullera

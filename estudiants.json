@@ -1,0 +1,38 @@
+[
+    {
+        "nom": "Sonia",
+        "edat": 21,
+        "nota": 8.5,
+        "assignatures": [
+            "Xarxes",
+            "Sistemes"
+        ]
+    },
+    {
+        "nom": "Jose",
+        "edat": 18,
+        "nota": 7.0,
+        "assignatures": [
+            "Seguretat",
+            "Aplicacions Web"
+        ]
+    },
+    {
+        "nom": "Natxo",
+        "edat": "18",
+        "nota": "5.0",
+        "assignatures": [
+            "Digitalitzacio",
+            " Sostenibilitat"
+        ]
+    },
+    {
+        "nom": "Paul",
+        "edat": "23",
+        "nota": "8.3",
+        "assignatures": [
+            "Programacio",
+            "Intinerari Personal per a l'Ocupabilitat II"
+        ]
+    }
+]
