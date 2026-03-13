@@ -38,4 +38,10 @@ print(f"Hi han {aprovats} alumnes aprovats i {suspesos} alumnes suspesos.")
 
 alumnes = []
 
-alumnes.append("Jose", "Carles", "Pablo", "Denis", "Alex")
+alumnes.append("Jose")
+alumnes.append("Carles")
+alumnes.append("Pablo")
+alumnes.append("Denis")
+alumnes.append("Alex")
+
+print(alumnes)
